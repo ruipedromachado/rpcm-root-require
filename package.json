@@ -1,0 +1,18 @@
+{
+  "name": "rpcm-root-require",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Very simple extension to the module \"app-root-path\" (all credits to the author)",
+  "main": "src/rpcm-root-require.js",
+  "source": "src/rpcm-root-require.js",
+  "keywords": [
+    "root",
+    "path",
+    "require"
+  ],
+  "author": "rpcm",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^3.0.0"
+  }
+}
